@@ -7,6 +7,6 @@ From competing at an international level in Alpine Skiing whilst in school, to c
 --> Emotion Recognition
 
 # Hobby Projects
---> Pokemon RPG
---> Wordle Solver
+--> Pokemon RPG <br />
+--> Wordle Solver <br />
 --> Game of Life
