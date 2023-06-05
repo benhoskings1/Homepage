@@ -1,7 +1,3 @@
-<!-- ![Book logo](./docs/assets/images/Profile_Pic.png)</br  > -->
-
-<img src="./docs/assets/images/Profile_Pic.png" alt="drawing" width="200"/>
-
 # About
 Over the last three years studying at the University of Warwick, I have developed a keen interest in software engineering, and more recently this has been focused on the applications of computational intelligence in healthcare. The completion of my dissertation project titled “Emotion Recognition from a Sequence of 3D Facial Point Clouds” has highlighted my interests in affective computing and computer vision, as well as the application machine leaning technologies to enhance multiple aspects of people’s lives.
 
